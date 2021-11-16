@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="fragment_search_weather">Погода</string>
+    <string name="fragment_search_city_hint">Введите город</string>
+    <string name="fragment_search_find">Найти</string>
+
+    <string name="item_weather_infotmation_daily">Недельный</string>
+    <string name="item_weather_infotmation_hourly">Почасовой</string>
+    <string name="main_fragmet_error_locartion">Город не найден! Вам показана погода на текущея локации!</string>
+</resources>

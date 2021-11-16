@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="fragment_search_weather">Weather</string>
+    <string name="fragment_search_city_hint">Enter the city</string>
+    <string name="fragment_search_find">Find</string>
+
+    <string name="item_weather_infotmation_daily">Daily</string>
+    <string name="item_weather_infotmation_hourly">Hourly</string>
+    <string name="main_fragmet_error_locartion">The city was not found! You are shown the weather at the current location!</string>
+</resources>
